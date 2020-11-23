@@ -197,9 +197,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.cogneon.de\/buehne"
+                 "value":"buehne-2384"
                 }],
          "type":"tilelayer",
          "visible":true,
