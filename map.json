@@ -215,9 +215,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_ZWQwYzUzZGQtM2QzMS00MGMyLTkyMmMtNTcxYmI0YTU4MDIz%40thread.v2\/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22ef6d281b-e5c6-4bf0-bf10-f189244ce749%22%7d"
+                 "value":"akaevery-kueche"
                 }],
          "type":"tilelayer",
          "visible":true,
