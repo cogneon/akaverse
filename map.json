@@ -15,6 +15,12 @@
          "id":62,
          "name":"coworking-jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"coworking-jitsi"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":38,
@@ -121,7 +127,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"akaevery-laboca"
+                 "value":"laboca-jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +145,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"akaevery-bibliothek"
+                 "value":"akademie-bibliothek"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +199,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"akaevery-kueche"
+                 "value":"akademie-kueche"
                 }],
          "type":"tilelayer",
          "visible":true,
