@@ -464,7 +464,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zumpad.zum.de\/p\/cvw20"
+                 "value":"https:\/\/meet.cogneon.de\/pad\/p\/akademie"
                 }],
          "type":"tilelayer",
          "visible":true,
