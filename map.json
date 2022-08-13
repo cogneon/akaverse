@@ -605,7 +605,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.timeanddate.com\/worldclock\/full.html"
+                 "value":"https:\/\/time.is\/de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
