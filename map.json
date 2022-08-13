@@ -276,7 +276,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.zotero.org\/groups\/599183\/cogneon_bibliothek\/library"
+                 "value":"https:\/\/wiki.cogneon.de\/Bibliothek_(Cogneon_Akademie)"
                 }],
          "type":"tilelayer",
          "visible":true,
